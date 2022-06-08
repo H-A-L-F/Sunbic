@@ -65,18 +65,20 @@ button:hover {
 }
 
 .space {
-    margin: 0.4%;
+    margin: 2%;
 }
 
 .hero {
-    z-index: 1;
     font-family: "Montserrat", sans-serif;
     height: 50vh;
-    width: 100%;
+    width: 80%;
+    margin: auto;
+    border-radius: 50px;
     background: linear-gradient(rgba(0, 0, 0, 0.808), rgba(0, 0, 0, 0.342)),
       url("../assets/book_drawer.jpg")
         no-repeat center bottom / cover;
     color: whitesmoke;
+    box-shadow: #fb8600d8 5px 5px, #e97c00a2 10px 10px, #cf6e0080 15px 15px, #c96b0056 20px 20px, #b35f0033 25px 25px;
 }
 
 .hero__container {

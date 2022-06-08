@@ -1,9 +1,9 @@
 - Home:
     Penjelasan mengenai online university Sunbic
-    - Header
-    - Navigation
-    - Content
-    - Footer
+    - Header        [v]
+    - Navigation    [v]
+    - Content       []
+    - Footer        []
 
 - Signup:
     - 5 form components
