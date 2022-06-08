@@ -5,7 +5,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #24252A;
+    background-color: #023047;
 }
 
 li, a, button {
@@ -78,7 +78,8 @@ button:hover {
       url("../assets/book_drawer.jpg")
         no-repeat center bottom / cover;
     color: whitesmoke;
-    box-shadow: #fb8600d8 5px 5px, #e97c00a2 10px 10px, #cf6e0080 15px 15px, #c96b0056 20px 20px, #b35f0033 25px 25px;
+    /* box-shadow: #fb8600d8 5px 5px, #e97c00a2 10px 10px, #cf6e0080 15px 15px, #c96b0056 20px 20px, #b35f0033 25px 25px; */
+    box-shadow: rgba(251, 133, 0, 0.4) 5px 5px, rgba(251, 133, 0, 0.3) 10px 10px, rgba(251, 133, 0, 0.2) 15px 15px, rgba(251, 133, 0, 0.1) 20px 20px, rgba(251, 133, 0, 0.05) 25px 25px;
 }
 
 .hero__container {
@@ -114,4 +115,64 @@ button:hover {
 .hero .hero__container__info p {
     font-size: 1.2rem;
     max-width: 50%;
+}
+
+.content {
+    /* background-color: #131313; */
+    padding: 10rem 0;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.content__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 90%;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding: 0 50px;
+}
+
+.content__content {
+    color: #fff;
+    width: 100%;
+    font-family: "Montserrat";
+}
+
+.content__content h1 {
+    font-size: 2rem;
+    color: #FFB703;
+    text-transform: uppercase;
+    margin-bottom: 32px;
+}
+
+.content__content h2 {
+    font-size: 4rem;
+    color: #FB8500;
+}
+
+.content__content p {
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-style: 700;
+    color: #219EBC;
+}
+
+.content__img--container {
+    text-align: center;
+}
+
+.content__img--card {
+    margin: 10px;
+    height: 500px;
+    width: 500px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: url("../assets/laptop.jpg") no-repeat center bottom / cover;
 }

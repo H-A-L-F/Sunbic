@@ -2,7 +2,7 @@
     Penjelasan mengenai online university Sunbic
     - Header        [v]
     - Navigation    [v]
-    - Content       []
+    - Content       [v]
     - Footer        []
 
 - Signup:
@@ -12,13 +12,14 @@
 
 
 Requirements:
-- 5 Kinds of CSS properties
-- Add accurate links to redirect users between the pages
-- Atleast 2 links to social media account or external website
-- CSS box positioning no using table
-- hover image with css pseudo element
-- save reference
-- match with theme
+- 5 Kinds of CSS properties                                     [v]
+- Add accurate links to redirect users between the pages        []
+- Atleast 2 links to social media account or external website   []
+- CSS box positioning no using table                            [v]
+- hover image with css pseudo element                           []
+- save reference                                                [v]
+- match with theme                                              [v]
 
 References:
 https://unsplash.com/photos/NIJuEQw0RKg
+https://unsplash.com/photos/HGn2OIV6Cgo
