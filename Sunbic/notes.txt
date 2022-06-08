@@ -1,0 +1,21 @@
+- Home:
+    Penjelasan mengenai online university Sunbic
+    - Header
+    - Navigation
+    - Content
+    - Footer
+
+- Signup:
+    - 5 form components
+
+- Courses:
+    
+
+Requirements:
+- 5 Kinds of CSS properties
+- Add accurate links to redirect users between the pages
+- Atleast 2 links to social media account or external website
+- CSS box positioning no using table
+- hover image with css pseudo element
+- save reference
+- match with theme
