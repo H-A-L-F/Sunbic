@@ -3,7 +3,7 @@
     - Header        [v]
     - Navigation    [v]
     - Content       [v]
-    - Footer        []
+    - Footer        [v]
 
 - Signup:
     - 5 form components
@@ -13,13 +13,14 @@
 
 Requirements:
 - 5 Kinds of CSS properties                                     [v]
-- Add accurate links to redirect users between the pages        []
+- Add accurate links to redirect users between the pages        [v]
 - Atleast 2 links to social media account or external website   []
 - CSS box positioning no using table                            [v]
-- hover image with css pseudo element                           []
+- hover image with css pseudo element                           [v]
 - save reference                                                [v]
 - match with theme                                              [v]
 
 References:
 https://unsplash.com/photos/NIJuEQw0RKg
 https://unsplash.com/photos/HGn2OIV6Cgo
+https://feathericons.com/
