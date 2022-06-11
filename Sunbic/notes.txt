@@ -9,7 +9,7 @@
     - 5 form components
 
 - Courses:
-
+    - cards         [v]
 
 Requirements:
 - 5 Kinds of CSS properties                                     [v]
